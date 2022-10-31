@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">POO_Formulario</string>
+    <string name="titulo_menu">Bienvenido al test de Higiene del Sueño</string>
 </resources>
