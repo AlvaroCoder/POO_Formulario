@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">POO_Formulario</string>
-<!--Menú general-->
     <string name="titulo_menu">Bienvenido al test de Higiene del Sueño</string>
-    <string name="txt_iniciarTest">INICIAR TEST</string>
-    <string name="txt_admin">¿Eres administrador?</string>
 </resources>
