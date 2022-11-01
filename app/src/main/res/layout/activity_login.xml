@@ -24,6 +24,7 @@
         android:layout_marginStart="80dp"
         android:layout_marginLeft="80dp"
         android:layout_marginTop="104dp"
+        android:onClick="iniciarTest"
         android:text="@string/btn_starTest"
         android:textSize="30sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -36,6 +37,7 @@
         android:layout_marginStart="96dp"
         android:layout_marginLeft="96dp"
         android:layout_marginTop="140dp"
+        android:onClick="admin"
         android:text="@string/btn_admin"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button" />
