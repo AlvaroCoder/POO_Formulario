@@ -1,5 +1,21 @@
 <resources>
     <string name="app_name">POO_Formulario</string>
     <string name="titulo_menu">Bienvenido al test de Higiene del Sueño</string>
-
+    <string name="continuar">Continuar</string>
+    <string name="siempre">Siempre</string>
+    <string name="a_veces">A veces</string>
+    <string name="frecuentemente">Frecuentemente</string>
+    <string name="nunca">Nunca</string>
+    <string name="raras_veces">Raras veces</string>
+    <string name="next">Continuar</string>
+    <string name="previus">Anterior</string>
+    <array name="rptas">
+        <item>Siempre</item>
+        <item>Frecuentemente</item>
+        <item>A veces</item>
+        <item>Rara vez</item>
+        <item>Nunca</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
