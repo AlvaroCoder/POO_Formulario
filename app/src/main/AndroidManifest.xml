@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.POO_Formulario">
+<<<<<<< HEAD
 
         <activity
             android:name=".ContenedroPreguntas"
@@ -25,10 +26,19 @@
         <activity
             android:name=".login"
             android:exported="true">
+=======
+        <activity
+            android:name=".loginAdmin"
+            android:exported="false" />
+
+        <activity android:name=".login">
+>>>>>>> 5fcdc0ed3ba9c7b247526042dd4980241a6120c2
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
     </application>
 </manifest>

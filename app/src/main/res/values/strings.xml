@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">POO_Formulario</string>
     <string name="titulo_menu">Bienvenido al test de Higiene del Sueño</string>
+<<<<<<< HEAD
     <string name="continuar">Continuar</string>
     <string name="siempre">Siempre</string>
     <string name="a_veces">A veces</string>
@@ -20,6 +21,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
+=======
+>>>>>>> 5fcdc0ed3ba9c7b247526042dd4980241a6120c2
     <string name="btn_starTest">INICIAR TEST</string>
     <string name="btn_admin">¿Eres administrador?</string>
 
@@ -30,5 +33,9 @@
     <string name="password_adm">Contraseña:</string>
     <string name="txt_userPassword_adm">Ingrese la contraseña</string>
     <string name="btn_login_adm">INGRESAR</string>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5fcdc0ed3ba9c7b247526042dd4980241a6120c2
 
 </resources>

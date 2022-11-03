@@ -14,7 +14,11 @@ public class login extends AppCompatActivity {
         setContentView(R.layout.activity_login);
     }
     public void iniciarTest(View view){
+<<<<<<< HEAD
         Intent iPantallaTest=new Intent(this, ContenedroPreguntas.class);
+=======
+        Intent iPantallaTest=new Intent(this, Pregunta.class);
+>>>>>>> 5fcdc0ed3ba9c7b247526042dd4980241a6120c2
         startActivity(iPantallaTest);
     }
     public void admin(View view){
