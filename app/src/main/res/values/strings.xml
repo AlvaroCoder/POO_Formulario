@@ -18,4 +18,16 @@
     </array>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="btn_starTest">INICIAR TEST</string>
+    <string name="btn_admin">¿Eres administrador?</string>
+
+<!--Para el menú de admins-->
+    <string name="txt_titulo_adm">BIENVENIDO A LA ZONA DE TRABAJO</string>
+    <string name="username_adm">Usuario:</string>
+    <string name="txt_userName_adm">Ingrese el nombre de usuario</string>
+    <string name="password_adm">Contraseña:</string>
+    <string name="txt_userPassword_adm">Ingrese la contraseña</string>
+    <string name="btn_login_adm">INGRESAR</string>
+
 </resources>
