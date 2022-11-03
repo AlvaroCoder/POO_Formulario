@@ -18,8 +18,8 @@
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="¿Vas a la cama en distintas Horas?"
-            android:textAllCaps="true" />
+            android:textAllCaps="true"
+            tools:text="@string/p1" />
 
         <ImageView
             android:id="@+id/imagePregunta"

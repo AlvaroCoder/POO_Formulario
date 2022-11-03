@@ -9,6 +9,7 @@
     <string name="raras_veces">Raras veces</string>
     <string name="next">Continuar</string>
     <string name="previus">Anterior</string>
+    <string name="p1">En las noches vas a distintas horas a la cama </string>
     <array name="rptas">
         <item>Siempre</item>
         <item>Frecuentemente</item>

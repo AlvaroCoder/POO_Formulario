@@ -17,15 +17,17 @@ public class ContenedroPreguntas extends AppCompatActivity {
         setContentView(R.layout.activity_contenedro_preguntas);
 
         btn_previous = findViewById(R.id.btn_previus);
-        btn_previous.setOnClickListener(this::onClick);
+
 
         btn_next = findViewById(R.id.btn_next);
-        btn_next.setOnClickListener(this::onClick);
 
-        array_preguntas = new ArrayList<>();
 
-        array_preguntas.add(new Pregunta(1, R.drawable.iracamadistintashoras, "En las noches me acuesto (o voy a la cama) a diferentes horas"));
-        array_preguntas.add(new Pregunta(2, R.drawable.ejercicioantesdedormir,"Una hora antes de ir a dormir realizo ejercicio físico"));
+
+
+        //Creamos las preguntas
+        //array_preguntas.add(new Pregunta(1, R.drawable.iracamadistintashoras, "En las noches me acuesto (o voy a la cama) a diferentes horas"));
+        //array_preguntas.add(new Pregunta(2, R.drawable.ejercicioantesdedormir,"Una hora antes de ir a dormir realizo ejercicio físico"));
+
 
     }
     public void onClick(View view){

@@ -10,22 +10,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.POO_Formulario">
 
-        <activity android:name=".ContenedroPreguntas"></activity>
+        <activity
+            android:name=".ContenedroPreguntas"
+            android:exported="false">
+        </activity>
 
 
         <activity
             android:name=".loginAdmin"
-            android:exported="false" />
+            android:exported="false" >
 
-        <activity android:name=".login">
+        </activity>
+
+        <activity
+            android:name=".login"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-
     </application>
-
 </manifest>
